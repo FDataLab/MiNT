@@ -1,0 +1,9 @@
+.main-background{
+    height: 100vh !important;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    background: #000;
+}
